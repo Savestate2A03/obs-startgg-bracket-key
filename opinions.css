@@ -1,0 +1,19 @@
+.bracket {
+  color: white;
+  transform: scale(2);
+}
+
+.progress-to,
+.progress-from {
+  color: black !important;
+  background: white;
+}
+
+.root-sggBAddL .titleContainer-sggCtPJ- .title-sggP5PgL,
+.root-sggBAddL .timeContainer-sggSCTWl {
+  color: white !important;
+}
+
+.RoundHeader-sggW-5vC.hidden-sggFw9x2 {
+  filter: opacity(0);
+}

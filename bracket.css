@@ -1,0 +1,18 @@
+*:not(.bracket, .bracket *) {
+  visibility: collapse !important;
+  background: transparent !important;
+}
+
+.bracket,
+.bracket * {
+  visibility: visible !important;
+}
+
+.bracket {
+  position: fixed;
+  inset: 0;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
